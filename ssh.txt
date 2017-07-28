@@ -1,2 +1,2 @@
 git@github.com:RoyHsiang/MyFirstProject.git
-from Lux
+LOL
